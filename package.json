@@ -1,0 +1,13 @@
+{
+  "name": "projeto-fernanda-duarte",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de pedidos - Desafio Jitterbit | Fernanda Amorim Duarte",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sql.js": "^1.10.2"
+  }
+}
